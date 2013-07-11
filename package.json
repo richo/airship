@@ -1,5 +1,5 @@
 {
-  "name": "groundstation",
+  "name": "airship",
   "preferGlobal": false,
   "version": "0.0.0",
   "author": "Richo Healey <richo@psych0tik.net>",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/richo/groundstation.git"
+    "url": "https://github.com/richo/airship.git"
   },
   "dependencies" : {
     "mocha"   :  "~1.8.1"
