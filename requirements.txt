@@ -1,5 +1,5 @@
 -e git+git://github.com/libgit2/pygit2.git#egg=pygit2
 -e git+git://github.com/richo/groundstation.git#egg=groundstation
-Flask==0.9
+Flask==1.0
 pycrypto
 watchdog
